@@ -6,19 +6,14 @@
    
    <body>
       
+<!-- <?php echo "Hello, World!";?> -->
+
+	<!-- <?
+	echo "Hello, World!";?> 
+	-->
 
 
-
-      <!-- <?php echo "Hello, World!";?> -->
-
-
-
-<!-- <?php 
-echo "Hello, Akshay!";?> 
- -->
-
-
-<script language = "php">  echo "asda asd asdsd asdasda " </script>
+<script language = "php">  echo "Hellow Akshay " </script>
 
    </body>
 
